@@ -1,5 +1,37 @@
-
+/* NAVBAR */
 nav {
-  margin-bottom: 40px;
+  
 }
 
+.glyphicon  {
+  font-size: 1.5em;
+}
+
+
+/* END NAVBAR */
+
+
+/* BODY */
+
+.sidebar {
+  text-align: center;
+  background-color: ##606060;
+}
+
+body {
+  background-color: #000;
+}
+
+.page-header h1 {
+  text-align: center;
+}
+
+.panel-title {
+  text-align: center;
+}
+
+.panel-body p {
+  padding: 10px;
+}
+
+/* END BODY */
