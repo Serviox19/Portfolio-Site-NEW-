@@ -1,3 +1,7 @@
+* {
+  font-family: "Verdana", Georgia, serif;
+}
+
 /* NAVBAR */
 nav {
   
@@ -87,3 +91,52 @@ body {
 }
 
 /* END BODY */
+
+
+
+/* FOOTER */
+
+#inputName {
+  width: 60%;
+}
+
+#inputEmail {
+  width: 70%;
+}
+
+#inputMessage {
+  display: block;
+  width: 85%;
+}
+
+footer {
+  background-color: #000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+fieldset {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+fieldset h1 {
+  text-align: center;
+  color: #909090;
+}
+
+form label {
+  font-size: 16px;
+  color: #909090;
+}
+
+
+
+
+
+
+
+
+/* END FOOTER */
