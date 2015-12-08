@@ -12,26 +12,78 @@ nav {
 
 
 /* BODY */
+body {
+  background-color: #3A3A3A;
+}
 
 .sidebar {
   text-align: center;
-  background-color: ##606060;
 }
 
-body {
-  background-color: #000;
-}
 
 .page-header h1 {
   text-align: center;
+  color: #000;
 }
+
+.page-header small {
+  color: #909090;
+}
+
 
 .panel-title {
   text-align: center;
 }
 
-.panel-body p {
-  padding: 10px;
+
+.blocks h2 {
+  text-align: center;
+}
+
+.skills-column {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  list-style: none;
+}
+
+.skills-column {
+  padding-top: 5px;
+}
+
+.skills-column li {
+  padding-top: 3px;
+  font-size: 12px;
+  font-family: Verdana;
+  font-weight: bold;
+}
+  
+
+.first-row {
+  padding-top: 50px;
+}
+
+.second-row {
+  padding-top: 50px;
+}
+
+.second-row h2 {
+  text-decoration: underline;
+}
+
+.blocks {
+  background-color: #909090;
+  border-width: 5px;
+  border-color: #000;
+  border-style: groove;
+}
+
+.blocks {
+  color: #000;
+}
+
+.footer {
+  background-color: #000;
 }
 
 /* END BODY */
