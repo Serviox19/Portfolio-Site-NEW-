@@ -9,10 +9,10 @@ $(document).ready(function () {
       $(".list-group").append(newListItem);
     }
     },
-    error: function(jqXHR, textStatus, errorThrown) {
-      alert("Something went Wrong!")
-    }
-    });
+  error: function(jqXHR, textStatus, errorThrown) {
+    alert("Something went Wrong!")
+  }
+  });
 
   function buildListGroup(repoData) {
     var apiUrl = "https://api.github.com/repos/";
