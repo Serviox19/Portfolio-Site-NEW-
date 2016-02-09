@@ -1,10 +1,17 @@
+// Variables
 var express = require('express');
+var bodyParser = require('body-parser');
 var app = express();
 var PORT = 8080;
 
 // Use JS and CSS
-app.use("../js", express.static("js"));
-app.use("../css", express.static("css"));
+app.use("/js", express.static("js"));
+app.use("/css", express.static("css"));
+app.use("/images", express.static("images"));
+
+
+//Body Parser
+app.use(bodyParser.urlencoded({ extended: false }));
 
 
 // Create all routes
