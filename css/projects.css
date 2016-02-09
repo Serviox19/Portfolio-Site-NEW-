@@ -16,6 +16,10 @@ nav {
   padding-top: 80px;
 }
 
+.first-row h3 {
+  text-align: center;
+}
+
 .pic-holder #github-click {
   text-align: center;
 }

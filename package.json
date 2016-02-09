@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_updated",
+  "version": "1.0.0",
+  "description": "Fixed Portfolio site with Node js, Express, and more",
+  "main": "\u001b[A\u001b[D\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[ server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serviox19/Portfolio-Site-NEW-.git"
+  },
+  "author": "Servio Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serviox19/Portfolio-Site-NEW-/issues"
+  },
+  "homepage": "https://github.com/Serviox19/Portfolio-Site-NEW-#readme"
+}
