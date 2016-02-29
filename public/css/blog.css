@@ -1,0 +1,49 @@
+/* NAVBAR */
+nav {
+
+}
+
+.glyphicon  {
+  font-size: 1.5em;
+}
+
+
+/* END NAVBAR */
+
+
+
+/* BODY */
+
+body {
+  background-color: #000;
+}
+
+#main-section {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0084B4;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  margin-top: 70px;
+}
+
+#main-section h1 {
+  text-align: center;
+  color: #000;
+}
+
+.well {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+/* END BODY */

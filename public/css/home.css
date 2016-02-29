@@ -1,0 +1,146 @@
+* {
+  font-family: "Verdana", Georgia, serif;
+}
+
+/* NAVBAR */
+nav {
+  
+}
+
+.glyphicon  {
+  font-size: 1.5em;
+}
+
+
+/* END NAVBAR */
+
+
+/* BODY */
+body {
+  background-color: #3A3A3A;
+}
+
+.sidebar {
+  text-align: center;
+}
+
+
+.page-header h1 {
+  text-align: center;
+  color: #000;
+}
+
+.page-header small {
+  color: #909090;
+}
+
+
+.panel-title {
+  text-align: center;
+}
+
+
+.blocks h2 {
+  text-align: center;
+}
+
+.skills-column {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  list-style: none;
+}
+
+.skills-column {
+  padding-top: 5px;
+}
+
+.skills-column li {
+  padding-top: 3px;
+  font-size: 12px;
+  font-family: Verdana;
+  font-weight: bold;
+}
+  
+
+.first-row {
+  padding-top: 50px;
+}
+
+.second-row {
+  padding-top: 50px;
+}
+
+.second-row h2 {
+  text-decoration: underline;
+}
+
+.blocks {
+  background-color: #909090;
+  border-width: 5px;
+  border-color: #000;
+  border-style: groove;
+}
+
+.blocks {
+  color: #000;
+}
+
+.footer {
+  background-color: #000;
+}
+
+/* END BODY */
+
+
+
+/* FOOTER */
+
+#inputName {
+  width: 60%;
+}
+
+#inputEmail {
+  width: 70%;
+}
+
+#inputMessage {
+  display: block;
+  width: 85%;
+}
+
+footer {
+  background-color: #000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+fieldset {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+fieldset h1 {
+  text-align: center;
+  color: #909090;
+}
+
+form label {
+  font-size: 16px;
+  color: #909090;
+}
+
+#submitMessage {
+  width: 50px;
+}
+
+
+
+
+
+
+
+
+/* END FOOTER */
